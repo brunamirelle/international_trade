@@ -10,4 +10,3 @@ as well as the new steady state and transition paths following a trade liberaliz
 This includes computing wages, labor force allocations and value functions.
 
 
-Solve Melitz 2003 and Eaton and Kortum (2002): problem set 1 and problem set 2
