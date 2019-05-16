@@ -1,7 +1,7 @@
 # international_trade
 models and codes (under construcion)
 
-main.R :implement a multi-sector version of the Eaton and Kortum (2002) model (Costinot, Donaldson, and Komunjer (2012))
+main.R: implement a multi-sector version of the Eaton and Kortum (2002) model (Costinot, Donaldson, and Komunjer (2012))
 
  
 EconomiaArtuc.py and main.py: Use the algorithm described in Artuç, Chaudhuri, and McLaren (2008) - and used in
